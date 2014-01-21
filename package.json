@@ -1,0 +1,16 @@
+{
+  "name": "chain-me",
+  "version": "0.0.1",
+  "description": "Make an object chainable",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "chain",
+    "object",
+    "fluent"
+  ],
+  "author": "Joseph Werle",
+  "license": "MIT"
+}
