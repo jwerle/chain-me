@@ -41,6 +41,3 @@ assert("joe" == person.get('name'));
 assert(23 == person.get('age'));
 assert("joseph.werle@gmail.com" == person.get('email'));
 assert("male" == person.get('gender'));
-
-
-
